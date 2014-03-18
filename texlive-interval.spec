@@ -1,12 +1,12 @@
-# revision 30747
+# revision 33012
 # category Package
 # catalog-ctan /macros/latex/contrib/interval
-# catalog-date 2013-05-24 14:49:46 +0200
+# catalog-date 2014-02-20 17:37:10 +0100
 # catalog-license lppl1.3
-# catalog-version 0.1
+# catalog-version 0.2
 Name:		texlive-interval
-Version:	0.1
-Release:	5
+Version:	0.2
+Release:	1
 Summary:	Format mathematical intervals, ensuring proper spacing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/interval
