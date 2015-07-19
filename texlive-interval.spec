@@ -6,7 +6,7 @@
 # catalog-version 0.2
 Name:		texlive-interval
 Version:	0.2
-Release:	4
+Release:	5
 Summary:	Format mathematical intervals, ensuring proper spacing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/interval
