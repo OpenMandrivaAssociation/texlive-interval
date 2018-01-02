@@ -1,12 +1,6 @@
-# revision 33012
-# category Package
-# catalog-ctan /macros/latex/contrib/interval
-# catalog-date 2014-02-20 17:37:10 +0100
-# catalog-license lppl1.3
-# catalog-version 0.2
 Name:		texlive-interval
-Version:	0.2
-Release:	5
+Version:	0.3
+Release:	1
 Summary:	Format mathematical intervals, ensuring proper spacing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/interval
@@ -38,9 +32,8 @@ and opening types. TeX maths does not do this job properly.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/interval/interval.sty
-%doc %{_texmfdistdir}/doc/latex/interval/interval.pdf
-%doc %{_texmfdistdir}/doc/latex/interval/interval.tex
+%{_texmfdistdir}/tex/latex/interval
+%doc %{_texmfdistdir}/doc/latex/interval
 
 #-----------------------------------------------------------------------
 %prep
