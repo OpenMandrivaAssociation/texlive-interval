@@ -1,6 +1,6 @@
 Name:		texlive-interval
-Version:	0.3
-Release:	2
+Version:	0.4
+Release:	1
 Summary:	Format mathematical intervals, ensuring proper spacing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/interval
