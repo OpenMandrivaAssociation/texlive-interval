@@ -3,7 +3,7 @@ Version:	50265
 Release:	2
 Summary:	Format mathematical intervals, ensuring proper spacing
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/interval
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/interval
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/interval.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/interval.doc.r%{version}.tar.xz
